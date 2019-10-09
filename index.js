@@ -6,7 +6,6 @@ let config = require('./config.json');
 let token = config.token;
 let prefix = config.prefix;
 let alertslist = require("./alertslist.json")
-const pong = require("./cmds/pong.js");
 let channelid = '615332089667256359';
 let roleName = 'SEA';
 
